@@ -1,0 +1,1 @@
+Phoca Virtue Mart IDnR Addon is Joomla! CMS extension. Addon which renders Invoices, Delivery Notes and Receipts of VirtueMart component.
